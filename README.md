@@ -20,4 +20,17 @@ A complete data pipeline project that processes, cleans, analyzes, and reports o
 - Python 3
 - Standard Library Only (random, copy)
 
-## 📈 Sample Output
+## Sample Output
+
+==================================================
+SUMMARY REPORT
+==================================================
+DATA QUALITY
+• Original records: 8
+• Valid records: 6
+• Invalid emails removed: 2
+
+SALARY ANALYSIS
+• Highest paid: Emma - $110,000
+• Engineering avg: $85,000
+• Highest avg department: Sales ($110,000)
